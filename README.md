@@ -1,4 +1,6 @@
-Supplify
+<img width="1919" height="943" alt="Cuplikan layar 2025-11-27 154252" src="https://github.com/user-attachments/assets/98bc6087-60a1-4707-bd2d-25fd67e52028" />
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/c38a5225-b243-4482-ad3d-ae24d8950af9" />
+
 
 Sistem Pendukung Keputusan (SPK) untuk menentukan supplier terbaik menggunakan metode Simple Additive Weighting (SAW).
 Supplify membantu mempermudah proses penilaian supplier secara objektif berdasarkan beberapa kriteria yang telah ditentukan.
