@@ -1,0 +1,6 @@
+name,price,quality,delivery_time,min_order,rating
+Supplier A,120000,4.5,2,10,4.2
+Supplier B,110000,4.0,3,50,4.5
+Supplier C,130000,4.8,1,20,4.0
+Supplier D,115000,4.2,2,30,4.6
+Supplier E,140000,4.9,1,15,4.8
